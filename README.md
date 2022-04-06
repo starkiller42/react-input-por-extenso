@@ -5,11 +5,12 @@ Componente React que retorna por extenso. - Feito para estudo
 ## Como instalar
 
 Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
-...
+
+```
 npm install react-meu-input-por-extenso
 # ou
 yarn add react-meu-input-por-extenso
-...
+```
 
 
 ## Como usar

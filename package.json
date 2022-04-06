@@ -1,6 +1,6 @@
 {
   "name": "react-meu-input-por-extenso",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Componente que retorna um numero por extenso",
   "main": "dist/index.js",
   "module": "dist/index.js",
